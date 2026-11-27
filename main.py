@@ -1,4 +1,4 @@
-LINE = "🏝️"
+LINE = "🚀"
 
 
 def validated_line() -> str:
